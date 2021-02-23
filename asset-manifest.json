@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/urenregistratie/static/css/main.e9048f90.chunk.css",
+    "main.js": "/urenregistratie/static/js/main.0bd44162.chunk.js",
+    "main.js.map": "/urenregistratie/static/js/main.0bd44162.chunk.js.map",
+    "runtime-main.js": "/urenregistratie/static/js/runtime-main.b77a04fc.js",
+    "runtime-main.js.map": "/urenregistratie/static/js/runtime-main.b77a04fc.js.map",
+    "static/css/2.2cdcad68.chunk.css": "/urenregistratie/static/css/2.2cdcad68.chunk.css",
+    "static/js/2.f13f2814.chunk.js": "/urenregistratie/static/js/2.f13f2814.chunk.js",
+    "static/js/2.f13f2814.chunk.js.map": "/urenregistratie/static/js/2.f13f2814.chunk.js.map",
+    "static/js/3.dc48cd83.chunk.js": "/urenregistratie/static/js/3.dc48cd83.chunk.js",
+    "static/js/3.dc48cd83.chunk.js.map": "/urenregistratie/static/js/3.dc48cd83.chunk.js.map",
+    "index.html": "/urenregistratie/index.html",
+    "static/css/2.2cdcad68.chunk.css.map": "/urenregistratie/static/css/2.2cdcad68.chunk.css.map",
+    "static/css/main.e9048f90.chunk.css.map": "/urenregistratie/static/css/main.e9048f90.chunk.css.map",
+    "static/js/2.f13f2814.chunk.js.LICENSE.txt": "/urenregistratie/static/js/2.f13f2814.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/urenregistratie/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b77a04fc.js",
+    "static/css/2.2cdcad68.chunk.css",
+    "static/js/2.f13f2814.chunk.js",
+    "static/css/main.e9048f90.chunk.css",
+    "static/js/main.0bd44162.chunk.js"
+  ]
+}
