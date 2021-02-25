@@ -9,13 +9,13 @@ function App() {
 		<Router>
 			<div className="App">
 				<div class="topnav" id="myTopnav">
-					<Link to="/">Home</Link>
-					<Link to="/add-uren">Uren Toevoegen</Link>
+					<Link to="/urenregistratie/">Home</Link>
+					<Link to="/urenregistratie/add-uren">Uren Toevoegen</Link>
 				</div>
 			</div>
 			<Switch>
-				<Route path="/" exact><Uren /></Route>
-				<Route path="/add-uren"><AddUren /></Route>
+				<Route path="/urenregistratie/" exact><Uren /></Route>
+				<Route path="/urenregistratie/add-uren"><AddUren /></Route>
 			</Switch>
 		</Router>
 	)
